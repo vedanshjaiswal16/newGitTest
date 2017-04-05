@@ -4,5 +4,5 @@ info:
   
 secret-message: secret-messageFromConfigFromApplicationYmlAnother Test1
 message: this property is form application.yml uploaded form git1
-prop1: Prop1 From Application Yml
+prop1: Prop1 From Application Yml1
 prop2: Prop2 From Application Yml
