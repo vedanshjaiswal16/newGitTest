@@ -2,4 +2,4 @@ info:
   description: Spring Cloud Samples
   url: https://github.com/vedanshjaiswal16/newGitTest
   
-secret-message: secret-messageFromConfigFromApplicationYml
+secret-message: secret-messageFromConfigFromApplicationYmlAnother Test
