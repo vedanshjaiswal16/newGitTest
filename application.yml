@@ -3,3 +3,4 @@ info:
   url: https://github.com/vedanshjaiswal16/newGitTest
   
 secret-message: secret-messageFromConfigFromApplicationYmlAnother Test
+message: this property is form application.yml uploaded form git
