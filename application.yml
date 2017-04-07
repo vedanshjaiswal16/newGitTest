@@ -2,7 +2,7 @@ info:
   description: Spring Cloud Samples
   url: https://github.com/vedanshjaiswal16/newGitTest
   
-secret-message: secret-messageFromConfigFromApplicationYmlAnother Test update1
+secret-message: secret-messageFromConfigFromApplicationYmlAnother Test update1 again
 message: this property is form application.yml uploaded form git1
 prop1: Prop1 From Application Yml1 with suhas modified
 prop2: Prop2 From Application Yml rabbit
