@@ -1,0 +1,10 @@
+info:
+  description: Spring Cloud Samples
+  url: https://github.com/vedanshjaiswal16/newGitTest
+  
+secret-message: secret-messageFromConfigFromApplicationYmlAnother Test update1 again
+message: this property is form application.yml uploaded form git1
+NAR_Washer_french_push: Dear User, this is an french push notification about your Whirlpool appliance.
+NAR_Washer_english_push: Dear User, this is an english push notification about your Whirlpool appliance.
+NAR_Washer_english_SMS: Dear User, this is an english SMS notification about your Whirlpool appliance.
+NAR_Washer_french_SMS: Dear User, this is an french SMS notification about your Whirlpool appliance.
